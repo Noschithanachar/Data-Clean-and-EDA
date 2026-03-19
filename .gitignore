@@ -1,2 +1,42 @@
 *csv
 /Raw-Data/
+
+# Virtual Environment
+
+myenv/
+venv/
+env/
+
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Data files (optional - ignore large datasets)
+
+rawdata/
+*.csv
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE files
+
+.vscode/
+.idea/
+
+# Environment variables
+
+.env
